@@ -1,0 +1,62 @@
+
+body {
+    background-color: #ececea;
+}
+
+
+.thumbnail{
+    object-fit: cover;
+    object-position: center;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+    }
+
+    p,h1,h3,li,a{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-left: 20px;
+    }
+
+.linkedin {
+    background-color: rgb(10, 102, 194);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    color: white;
+    border-radius: 20px;
+   cursor: pointer;
+   text-decoration: none;
+}
+
+.youtube {
+    background-color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+.facebook {
+    background-color: rgb(50, 101, 241);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    font-size: 13px;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
