@@ -1,0 +1,17 @@
+/* tag */
+div{
+    background-color: blue;
+    color: aliceblue;
+}
+/* id */
+#myparagraph{
+    background-color: aqua;
+}
+/* class */
+.talino{
+    background-color: brown;
+}
+
+#world1{
+    background-color: aqua;
+}
